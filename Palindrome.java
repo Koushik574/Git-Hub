@@ -9,6 +9,8 @@
 //    }
 //}
 
+//CI Trigger
+
 public class Palindrome {
     public static boolean isPalindrome(String str) {
         String cleanStr = str.replaceAll("\\s+", ""); // remove all whitespaces
